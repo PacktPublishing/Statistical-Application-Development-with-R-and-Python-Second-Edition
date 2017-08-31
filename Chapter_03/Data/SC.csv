@@ -1,0 +1,11 @@
+Bug_Type,Frequency
+Bugs.BR,11605
+Bugs.AR,374
+NT.Bugs.BR,10119
+NT.Bugs.AR,17
+Major.BR,1135
+Major.AR,35
+Critical.BR,432
+Critical.AR,10
+H.Priority.BR,459
+H.Priority.AR,3
