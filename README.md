@@ -25,6 +25,3 @@ You will need the following to work with the examples in this book:
 * [Kivy – Interactive Applications and Games in Python - Second Edition](https://www.packtpub.com/application-development/kivy-–-interactive-applications-and-games-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785286926)
 
 * [Web Development with Bootstrap 4 and Angular 2 - Second Edition](https://www.packtpub.com/web-development/web-development-bootstrap-4-and-angular-2-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785880810)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
